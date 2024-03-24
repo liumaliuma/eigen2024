@@ -1,7 +1,7 @@
 {
 "name": "eigen321",
 "website": "https://medium.com/@superggg321",
-"description": "run eigenlayer node, hello world",
-"logo": "https://block.thethirdspacechain.com/files/logo1.png",
+"description": "start eigenlayer node",
+"logo": "https://raw.githubusercontent.com/liumaliuma/eigen2024/main/mynft.png",
 "twitter": "https://twitter.com/zhonghuiliu601"
 }
